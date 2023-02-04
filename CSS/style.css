@@ -1,0 +1,14 @@
+.panel {
+    background-color: coral;
+}
+
+.counter-block-number,
+.counter-block-label {
+    padding: 10px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.counter-block-label {
+    text-decoration: underline;
+}
